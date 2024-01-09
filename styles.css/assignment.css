@@ -190,3 +190,27 @@
     justify-content: center;
     align-items: center;
 }
+.last {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-color: rgb(245, 218, 222);
+    text-align: center;
+  }
+  .lastSection {
+    width: 60%;
+    margin: 0 auto;
+  }
+  .lastP {
+    color: rgb(32, 32, 32);
+    font-size: 14px;
+  }
+  .btn {
+    outline: none;
+    border: none;
+    background-color: red;
+    padding: 0 30px;
+    color: white;
+    border-radius: 0 500px 500px 0;
+  }
