@@ -83,7 +83,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-color: black;
-    margin: 20px 40px;
+    margin: 40px;
     text-align: center;
     height: 450px;
     display: flex;
@@ -120,4 +120,73 @@
 .btn {
     background-color: black;
     color: white;
+}
+
+.giftContainer {
+
+    margin: 60px 40px;
+}
+
+.giftP {
+    width: 500px;
+    color: rgba(7, 2, 17, 0.60);
+}
+
+.pclass {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.giftH1 {
+    margin: 0;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.giftCardcontainer {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.giftCard {
+    width: 33%;
+    height: 250px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.giftCardImg {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    
+}
+.where-the-party{
+    margin: 40px;
+    border-radius: 20px;
+    background-color: rgb(252, 243, 245);
+    padding: 100px 100px 100px 380px;
+    justify-content: center;
+    align-items: center;
+}
+.btn2{
+   
+    margin-top: 20px;
+    border-radius: 8px;
+    padding: 8px 16px;
+    background: #F00;
+    color: white;
+    border-color: white;
+    justify-content: center;
+    align-items: center;
 }
